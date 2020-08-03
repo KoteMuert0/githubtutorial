@@ -25,3 +25,7 @@ build/
 node_modules/
 .idea/
 my_notes.txt
+
+
+git push - добавить в удаленный репозиторий
+git clone https://..... - слонировать проект
